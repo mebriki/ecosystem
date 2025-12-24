@@ -1,5 +1,9 @@
 [
   {
+    "id": "ai",
+    "name": "Artificial Intelligence"
+  },
+  {
     "id": "fintech",
     "name": "FinTech"
   },
