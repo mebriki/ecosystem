@@ -1,6 +1,6 @@
 import StartupCard from './StartupCard';
-import EmptyState from './EmptyState';
-import type { Startup, Category } from '@/types';
+import EmptyState from '@/shared/components/EmptyState';
+import type { Startup, Category } from '../types';
 
 interface StartupGridProps {
   startups: Startup[];
@@ -12,7 +12,7 @@ const StartupGrid = ({ startups, categories, onClearFilters }: StartupGridProps)
   const getCategoryById = (id: string) => categories.find((c) => c.id === id);
 
   if (startups.length === 0) {
-    return <EmptyState onClearFilters={onClearFilters} />;
+    return <EmptyState onClearFilters={onClearFilters} message="No startups found" />;
   }
 
   return (
@@ -34,3 +34,4 @@ const StartupGrid = ({ startups, categories, onClearFilters }: StartupGridProps)
 };
 
 export default StartupGrid;
+

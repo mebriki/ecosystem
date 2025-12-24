@@ -11,4 +11,3 @@ export interface Startup {
   linkedin?: string;
 }
 
-export type SortOrder = 'asc' | 'desc';

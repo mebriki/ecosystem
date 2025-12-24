@@ -7,7 +7,8 @@ import {
   SelectValue,
 } from '@/components/ui/select';
 import { Input } from '@/components/ui/input';
-import type { Category, SortOrder } from '@/types';
+import type { Category } from '../types';
+import type { SortOrder } from '@/shared/types';
 
 interface FilterBarProps {
   categories: Category[];
@@ -87,3 +88,4 @@ const FilterBar = ({
 };
 
 export default FilterBar;
+

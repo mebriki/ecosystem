@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { ExternalLink, Linkedin, Calendar } from 'lucide-react';
-import type { Startup, Category } from '@/types';
+import type { Startup, Category } from '../types';
 
 interface StartupCardProps {
   startup: Startup;
@@ -74,3 +74,4 @@ const StartupCard = ({ startup, category }: StartupCardProps) => {
 };
 
 export default StartupCard;
+
