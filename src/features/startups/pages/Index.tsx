@@ -78,10 +78,10 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <main className="container py-6">
+      <main className="container py-4 sm:py-6 px-4 sm:px-6">
         <Header />
         
-        <section className="space-y-6">
+        <section className="space-y-4 sm:space-y-6">
           <FilterBar
             categories={usedCategories}
             selectedCategory={selectedCategory}

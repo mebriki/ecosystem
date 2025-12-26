@@ -59,13 +59,13 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <main className="container py-6">
+      <main className="container py-4 sm:py-6 px-4 sm:px-6">
         <Header 
           title="Job Portals in Algeria"
           description="Discover job portals and career opportunities in Algeria. Find your next career move."
         />
         
-        <section className="space-y-6">
+        <section className="space-y-4 sm:space-y-6">
           <SimpleFilterBar
             sortOrder={sortOrder}
             onSortOrderChange={setSortOrder}
