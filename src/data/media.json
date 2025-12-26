@@ -1,0 +1,87 @@
+[
+  {
+    "title": "رحلة مبرمج",
+    "categoryId": 1,
+    "description": "A podcast that shares personal experiences, ideas about programming, and everything related to the world of technology.",
+    "url": "https://www.youtube.com/@devjourneycast"
+  },
+  {
+    "title": "Wled Horma Talks",
+    "categoryId": 1,
+    "description": "Wled Horma Talks, where we explore the intersections of life, education, technology, and business in the Algerian context.",
+    "url": "https://www.youtube.com/@WledHormaTalks"
+  },
+  {
+    "title": "بودكاست رائد",
+    "categoryId": 1,
+    "description": "An Algerian podcast presented by Dr. Abdelrahim Abdellawi. Host and share the experiences of the elite with you.",
+    "url": "https://www.youtube.com/playlist?list=PLFfJAUMttEPA-A9l0xYoJhwz1f908xHgM"
+  },
+  {
+    "title": "BrainerX Cast",
+    "categoryId": 1,
+    "description": "Host successful people in order to share their experience in business , entrepreneurship and personal development.",
+    "url": "https://www.youtube.com/playlist?list=PLxkIsuB4MYCd6P1LEua6zpEoXzbp-tLsW"
+  },
+  {
+    "title": "Fluently Talk",
+    "categoryId": 1,
+    "description": "Inspiring stories from entrepreneurs, creators, and professionals who have made their mark in their fields.",
+    "url": "https://www.youtube.com/playlist?list=PLdOpQCW0zaLh2hBONaBzR8kVgYoh5rRBh"
+  },
+  {
+    "title": "بودكاست المقاول",
+    "categoryId": 1,
+    "description": "Provides practical advice to help young Algerians create and manage successful businesses. On this channel, you will find educational videos on topics such as innovation, strategic planning, financing, and risk management.",
+    "url": "https://www.youtube.com/playlist?list=PLPUZbyptr3JJRo1yLIieXthR1_CExrDNw"
+  },
+  {
+    "title": "بطاقة المقاول الذاتي",
+    "categoryId": 2,
+    "description": "جواب لكل سؤال عن بطاقة المقاول الذاتي الجزئري مع الوزير يسين وليد.",
+    "url": "https://www.youtube.com/watch?v=cE__7NZlp8Y"
+  },
+  {
+    "title": "Gosto Podcast",
+    "categoryId": 1,
+    "description": "Gosto podcast that spread the entrepreneurship mindset.",
+    "url": "https://www.youtube.com/playlist?list=PLm59MP-8p1CSCToc3J3lCD-ws3NSl9gzu"
+  },
+  {
+    "title": "Podcast Oxygen",
+    "categoryId": 1,
+    "description": "Share successful stories of entrepreneurs.",
+    "url": "https://www.youtube.com/@podcastoxygen"
+  },
+  {
+    "title": "King's Podcast",
+    "categoryId": 1,
+    "description": "King's Podcast unlocks the secrets to know more about business with the power of video. Join us to guide you through crafting compelling content that will reign supreme!.",
+    "url": "https://www.youtube.com/@KingsPodcastdz"
+  },
+  {
+    "title": "حكاية بزنس",
+    "categoryId": 1,
+    "description": "بودكاست جزائري يختص في كل ما يخص التجارة و ريادة الأعمال.",
+    "url": "https://www.youtube.com/playlist?list=PLA7U8-K_wJFs2xRlPYlvAU4K3g2MQyG5J"
+  },
+  {
+    "title": "Gusra Podcast",
+    "categoryId": 1,
+    "description": "Gusra Podcast, is an Arab speaking Algerian podcast. A long format discussion where a variety of guests, from different walks of life, come to talk about their stories, experiences , fields of expertise and other miscellaneous topics.",
+    "url": "https://www.youtube.com/@Gusra"
+  },
+  {
+    "title": "Podcast Tamayaz",
+    "categoryId": 1,
+    "description": "بودكاست تَميَّز يستضيف شخصيات ناجحة أكاديميا لننقل تجاربهم، ونتناول بعضا من شخصيتهم ونبرزها أكثر ليتعرف عليهم الجمهور عن قرب أكثر ويكونوا مصدر إلهام لنا ولهم.",
+    "url": "https://www.youtube.com/playlist?list=PLzcxxjzqdFrOLWpdgmdI8NEbuRaIOLnVt"
+  },
+  {
+    "title": "بودكاست حارث",
+    "categoryId": 1,
+    "description": "بودكاست جزائري يشارك تجارب لشخصيات ناجحة.",
+    "url": "https://www.youtube.com/playlist?list=PLBTyfxpJy0PduAD3N_M3i8EQ_G_8Slxrf"
+  }
+]
+

@@ -1,4 +1,4 @@
-import { Rocket, Building2, Users } from 'lucide-react';
+import { Rocket, Building2, Users, Radio } from 'lucide-react';
 import { Link, useLocation } from 'react-router-dom';
 import { cn } from '@/lib/utils';
 
@@ -17,6 +17,7 @@ const Header = ({
     { path: '/', label: 'Startups', icon: Rocket },
     { path: '/incubators', label: 'Incubators', icon: Building2 },
     { path: '/coworking-spaces', label: 'Co-Working Spaces', icon: Users },
+    { path: '/media', label: 'Media', icon: Radio },
   ];
 
   return (

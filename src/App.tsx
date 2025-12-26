@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "@/features/startups/pages/Index";
 import Incubators from "@/features/incubators/pages/Incubators";
 import CoworkingSpaces from "@/features/coworking-spaces/pages/CoworkingSpaces";
+import Media from "@/features/media/pages/Index";
 import NotFound from "@/shared/pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -20,6 +21,7 @@ const App = () => (
           <Route path="/" element={<Index />} />
           <Route path="/incubators" element={<Incubators />} />
           <Route path="/coworking-spaces" element={<CoworkingSpaces />} />
+          <Route path="/media" element={<Media />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
