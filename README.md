@@ -24,3 +24,7 @@ npm run dev
 
 We welcome contributions to our project! Please check the
 [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute.
+
+## Licence
+
+See [LICENSE](LICENSE) for full details.
