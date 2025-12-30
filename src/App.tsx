@@ -10,6 +10,7 @@ import CoworkingSpaces from "@/features/coworking-spaces/pages/CoworkingSpaces";
 import Media from "@/features/media/pages/Index";
 import Jobs from "@/features/jobs/pages/Index";
 import Communities from "@/features/communities/pages/Index";
+import Events from "@/features/events/pages/Index";
 import NotFound from "@/shared/pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -28,6 +29,7 @@ const App = () => (
           <Route path="/media" element={<Media />} />
           <Route path="/jobs" element={<Jobs />} />
           <Route path="/communities" element={<Communities />} />
+          <Route path="/events" element={<Events />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
