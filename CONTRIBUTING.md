@@ -33,5 +33,5 @@ Here's how to get started:
 
 ### 📊 Data Improvements
 
-- Add new add by editing [src/data/](src/data/) files to include
+- Add new data by editing [src/data/](src/data/) files to include
   new items

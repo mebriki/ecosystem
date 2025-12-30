@@ -30,7 +30,7 @@
   {
     "name": "BK FIRE",
     "foundedYear": 2015,
-    "categoryId": "saas",
+    "categoryId": "hardware",
     "website": "https://bkfire.dz",
     "linkedin": "https://linkedin.com/company/bk-fire"
   },
@@ -176,7 +176,7 @@
   {
     "name": "Pratic Power",
     "foundedYear": 2021,
-    "categoryId": "iot",
+    "categoryId": "hardware",
     "website": "https://pratic-power.dz",
     "linkedin": "https://linkedin.com/company/cbc-altech"
   },
@@ -239,7 +239,7 @@
   {
     "name": "Spinet",
     "foundedYear": 2021,
-    "categoryId": "saas",
+    "categoryId": "hardware",
     "website": "https://spinetnfc.com",
     "linkedin": "https://linkedin.com/company/sarl-spinet-nfc"
   },

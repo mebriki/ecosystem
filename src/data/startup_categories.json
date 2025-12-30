@@ -46,6 +46,10 @@
   {
     "id": "iot",
     "name": "IoT"
+  },
+  {
+    "id": "hardware",
+    "name": "Hardware Solutions"
   }
 ]
 
