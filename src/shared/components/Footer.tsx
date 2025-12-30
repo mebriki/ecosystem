@@ -1,4 +1,4 @@
-import { Heart, Github } from 'lucide-react';
+import { Heart, Github, Plus } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -7,7 +7,7 @@ const Footer = () => {
         <p className="flex items-center justify-center gap-1">
           Made with <Heart className="w-4 h-4 text-destructive fill-destructive" /> for the Algerian startup ecosystem
         </p>
-        <div className="flex items-center justify-center gap-2">
+        <div className="flex items-center justify-center gap-4 flex-wrap">
           <a
             href="https://github.com/dz-ecosystem/startup-directory"
             target="_blank"
@@ -16,6 +16,15 @@ const Footer = () => {
           >
             <Github className="w-4 h-4" />
             <span>Contribute on GitHub</span>
+          </a>
+          <a
+            href="https://forms.gle/AiACXXFWwA1inGPJA"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 text-muted-foreground hover:text-primary transition-colors"
+          >
+            <Plus className="w-4 h-4" />
+            <span>Submit Data</span>
           </a>
         </div>
       </div>

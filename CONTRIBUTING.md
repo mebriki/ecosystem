@@ -33,5 +33,5 @@ Here's how to get started:
 
 ### 📊 Data Improvements
 
-- Add new data by editing [src/data/](src/data/) files to include
-  new items
+- **Direct contribution**: Add new data by editing [src/data/](src/data/) files to include new items
+- **Submit data via form**: Use our [contribution form](https://forms.gle/AiACXXFWwA1inGPJA) to add new startups, incubators, accelerators, coworking spaces, media, jobs, communities, or events
