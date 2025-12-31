@@ -16,7 +16,7 @@ const JobGrid = ({ jobs, onClearFilters }: JobGridProps) => {
     <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {jobs.map((job, index) => (
         <div
-          key={job.id}
+          key={index}
           className="animate-fade-in"
           style={{ animationDelay: `${index * 50}ms` }}
         >
